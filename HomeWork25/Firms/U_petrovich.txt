@@ -1,0 +1,5 @@
+NameFirm:     U_petrovich
+Owner:        Petrovich
+Number phone: 8943789yt538475864735867537864
+Addres:       stBogolubogo
+Occupation:   Upgrete_auto
